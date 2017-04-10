@@ -5,3 +5,6 @@
 
 # WebGL
 * [WebGLFundamentals](https://webglfundamentals.org/)
+
+# OpenGL
+* [Let's Fix OpenGL paper](http://www.cs.cornell.edu/~asampson/media/papers/opengl-snapl2017-preprint.pdf)
