@@ -5,6 +5,7 @@
 
 # WebGL
 * [WebGLFundamentals](https://webglfundamentals.org/)
+* [WebGL reference card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf)
 
 # OpenGL
 * [Let's Fix OpenGL paper](http://www.cs.cornell.edu/~asampson/media/papers/opengl-snapl2017-preprint.pdf)
@@ -12,3 +13,4 @@
 
 # Vulkan
 * [Tutorial](https://vulkan-tutorial.com)
+* [Great overview talk - Red Hat dev](https://www.youtube.com/watch?v=ynyO3O3zd3E)
